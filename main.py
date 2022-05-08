@@ -1,7 +1,3 @@
-import transformers 
-import torch
-import torchvision
-import torchaudio
 from fastapi import FastAPI
 from transformers import pipeline
 
